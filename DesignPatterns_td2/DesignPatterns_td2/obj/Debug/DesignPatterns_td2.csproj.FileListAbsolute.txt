@@ -1,0 +1,6 @@
+c:\users\thoma\documents\visual studio 2015\Projects\DesignPatterns_td2\DesignPatterns_td2\bin\Debug\DesignPatterns_td2.exe.config
+c:\users\thoma\documents\visual studio 2015\Projects\DesignPatterns_td2\DesignPatterns_td2\bin\Debug\DesignPatterns_td2.exe
+c:\users\thoma\documents\visual studio 2015\Projects\DesignPatterns_td2\DesignPatterns_td2\bin\Debug\DesignPatterns_td2.pdb
+c:\users\thoma\documents\visual studio 2015\Projects\DesignPatterns_td2\DesignPatterns_td2\obj\Debug\DesignPatterns_td2.csprojResolveAssemblyReference.cache
+c:\users\thoma\documents\visual studio 2015\Projects\DesignPatterns_td2\DesignPatterns_td2\obj\Debug\DesignPatterns_td2.exe
+c:\users\thoma\documents\visual studio 2015\Projects\DesignPatterns_td2\DesignPatterns_td2\obj\Debug\DesignPatterns_td2.pdb

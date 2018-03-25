@@ -1,0 +1,6 @@
+c:\users\thoma\documents\visual studio 2015\Projects\TetrisServer\TetrisServer\bin\Debug\TetrisServer.exe.config
+c:\users\thoma\documents\visual studio 2015\Projects\TetrisServer\TetrisServer\bin\Debug\TetrisServer.exe
+c:\users\thoma\documents\visual studio 2015\Projects\TetrisServer\TetrisServer\bin\Debug\TetrisServer.pdb
+c:\users\thoma\documents\visual studio 2015\Projects\TetrisServer\TetrisServer\obj\Debug\TetrisServer.csprojResolveAssemblyReference.cache
+c:\users\thoma\documents\visual studio 2015\Projects\TetrisServer\TetrisServer\obj\Debug\TetrisServer.exe
+c:\users\thoma\documents\visual studio 2015\Projects\TetrisServer\TetrisServer\obj\Debug\TetrisServer.pdb

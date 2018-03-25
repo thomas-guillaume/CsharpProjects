@@ -1,0 +1,8 @@
+c:\users\thoma\documents\visual studio 2015\Projects\IBO\IBO\bin\Debug\IBO.exe.config
+c:\users\thoma\documents\visual studio 2015\Projects\IBO\IBO\obj\Debug\IBO.csprojResolveAssemblyReference.cache
+c:\users\thoma\documents\visual studio 2015\Projects\IBO\IBO\bin\Debug\IBO.exe
+c:\users\thoma\documents\visual studio 2015\Projects\IBO\IBO\bin\Debug\IBO.pdb
+c:\users\thoma\documents\visual studio 2015\Projects\IBO\IBO\bin\Debug\Newtonsoft.Json.dll
+c:\users\thoma\documents\visual studio 2015\Projects\IBO\IBO\bin\Debug\Newtonsoft.Json.xml
+c:\users\thoma\documents\visual studio 2015\Projects\IBO\IBO\obj\Debug\IBO.exe
+c:\users\thoma\documents\visual studio 2015\Projects\IBO\IBO\obj\Debug\IBO.pdb

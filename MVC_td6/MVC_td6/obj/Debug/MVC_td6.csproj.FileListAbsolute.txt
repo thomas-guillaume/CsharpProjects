@@ -1,0 +1,14 @@
+c:\users\thoma\documents\visual studio 2015\Projects\MVC_td6\MVC_td6\bin\Debug\MVC_td6.exe.config
+c:\users\thoma\documents\visual studio 2015\Projects\MVC_td6\MVC_td6\bin\Debug\MVC_td6.exe
+c:\users\thoma\documents\visual studio 2015\Projects\MVC_td6\MVC_td6\bin\Debug\MVC_td6.pdb
+c:\users\thoma\documents\visual studio 2015\Projects\MVC_td6\MVC_td6\obj\Debug\MVC_td6.csprojResolveAssemblyReference.cache
+c:\users\thoma\documents\visual studio 2015\Projects\MVC_td6\MVC_td6\obj\Debug\MainWindow.g.cs
+c:\users\thoma\documents\visual studio 2015\Projects\MVC_td6\MVC_td6\obj\Debug\App.g.cs
+c:\users\thoma\documents\visual studio 2015\Projects\MVC_td6\MVC_td6\obj\Debug\MVC_td6_MarkupCompile.cache
+c:\users\thoma\documents\visual studio 2015\Projects\MVC_td6\MVC_td6\obj\Debug\MVC_td6_MarkupCompile.lref
+c:\users\thoma\documents\visual studio 2015\Projects\MVC_td6\MVC_td6\obj\Debug\MainWindow.baml
+c:\users\thoma\documents\visual studio 2015\Projects\MVC_td6\MVC_td6\obj\Debug\MVC_td6.g.resources
+c:\users\thoma\documents\visual studio 2015\Projects\MVC_td6\MVC_td6\obj\Debug\MVC_td6.Properties.Resources.resources
+c:\users\thoma\documents\visual studio 2015\Projects\MVC_td6\MVC_td6\obj\Debug\MVC_td6.csproj.GenerateResource.Cache
+c:\users\thoma\documents\visual studio 2015\Projects\MVC_td6\MVC_td6\obj\Debug\MVC_td6.exe
+c:\users\thoma\documents\visual studio 2015\Projects\MVC_td6\MVC_td6\obj\Debug\MVC_td6.pdb

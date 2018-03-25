@@ -1,0 +1,6 @@
+c:\users\thoma\documents\visual studio 2015\Projects\TetrisPlayer\TetrisPlayer\bin\Debug\TetrisPlayer.exe.config
+c:\users\thoma\documents\visual studio 2015\Projects\TetrisPlayer\TetrisPlayer\bin\Debug\TetrisPlayer.exe
+c:\users\thoma\documents\visual studio 2015\Projects\TetrisPlayer\TetrisPlayer\bin\Debug\TetrisPlayer.pdb
+c:\users\thoma\documents\visual studio 2015\Projects\TetrisPlayer\TetrisPlayer\obj\Debug\TetrisPlayer.exe
+c:\users\thoma\documents\visual studio 2015\Projects\TetrisPlayer\TetrisPlayer\obj\Debug\TetrisPlayer.pdb
+C:\Users\thoma\Documents\Visual Studio 2015\Projects\TetrisPlayer\TetrisPlayer\obj\Debug\TetrisPlayer.csprojResolveAssemblyReference.cache

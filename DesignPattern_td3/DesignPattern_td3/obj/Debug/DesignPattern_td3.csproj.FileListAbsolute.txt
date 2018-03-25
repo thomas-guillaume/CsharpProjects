@@ -1,0 +1,6 @@
+c:\users\thoma\documents\visual studio 2015\Projects\DesignPattern_td3\DesignPattern_td3\bin\Debug\DesignPattern_td3.exe.config
+c:\users\thoma\documents\visual studio 2015\Projects\DesignPattern_td3\DesignPattern_td3\bin\Debug\DesignPattern_td3.exe
+c:\users\thoma\documents\visual studio 2015\Projects\DesignPattern_td3\DesignPattern_td3\bin\Debug\DesignPattern_td3.pdb
+c:\users\thoma\documents\visual studio 2015\Projects\DesignPattern_td3\DesignPattern_td3\obj\Debug\DesignPattern_td3.csprojResolveAssemblyReference.cache
+c:\users\thoma\documents\visual studio 2015\Projects\DesignPattern_td3\DesignPattern_td3\obj\Debug\DesignPattern_td3.exe
+c:\users\thoma\documents\visual studio 2015\Projects\DesignPattern_td3\DesignPattern_td3\obj\Debug\DesignPattern_td3.pdb

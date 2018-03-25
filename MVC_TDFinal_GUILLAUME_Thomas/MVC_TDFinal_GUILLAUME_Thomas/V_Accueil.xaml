@@ -1,0 +1,13 @@
+﻿<Window x:Class="MVC_TDFinal_GUILLAUME_Thomas.V_Accueil"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MVC_TDFinal_GUILLAUME_Thomas"
+        mc:Ignorable="d"
+        Title="Accueil" Height="500" Width="600">
+    <Grid>
+        <Button x:Name="Recherche" Content="Rechercher un crime" HorizontalAlignment="Left" Margin="75,175,0,0" VerticalAlignment="Top" Width="200" Height="150" Click="Recherche_Click"/>
+        <Button x:Name="Ajout" Content="Ajouter un crime" HorizontalAlignment="Left" Margin="325,175,0,0" VerticalAlignment="Top" Width="200" Height="150" Click="Ajout_Click"/>
+    </Grid>
+</Window>

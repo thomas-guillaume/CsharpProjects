@@ -1,0 +1,6 @@
+c:\users\thoma\documents\visual studio 2015\Projects\POO_td2\POO_td2\bin\Debug\POO_td2.exe.config
+c:\users\thoma\documents\visual studio 2015\Projects\POO_td2\POO_td2\bin\Debug\POO_td2.exe
+c:\users\thoma\documents\visual studio 2015\Projects\POO_td2\POO_td2\bin\Debug\POO_td2.pdb
+c:\users\thoma\documents\visual studio 2015\Projects\POO_td2\POO_td2\obj\Debug\POO_td2.csprojResolveAssemblyReference.cache
+c:\users\thoma\documents\visual studio 2015\Projects\POO_td2\POO_td2\obj\Debug\POO_td2.exe
+c:\users\thoma\documents\visual studio 2015\Projects\POO_td2\POO_td2\obj\Debug\POO_td2.pdb
